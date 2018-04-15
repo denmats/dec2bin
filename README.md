@@ -1,1 +1,1 @@
-# dec2bin
+# converter decimal number to binary
